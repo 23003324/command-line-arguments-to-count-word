@@ -44,8 +44,8 @@ print("Number of words: ",num_words)
 
 
 ## OUTPUT:
+![Alt text](2.png)
 
-![Alt text](1.png)
 
 
 
